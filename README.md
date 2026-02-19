@@ -18,4 +18,4 @@ Para rodar este projeto localmente, você precisará do Python 3.12+ instalado.
 
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/Will-Eng-Software/banco-elite.git](https://github.com/seu-usuario/banco-elite.git)
+   git clone [https://github.com/Will-Eng-Software/banco-elite.git](https://github.com/Will-Eng-Will/banco-elite.git)
